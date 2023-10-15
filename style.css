@@ -1,0 +1,150 @@
+@font-face {
+    font-family: 'leagueGothic';
+    src: url(LeagueGothic-Regular.otf);
+}
+
+@font-face {
+    font-family: Bentonsans;
+    src: url(BentonSans-CompBlackRegular.otf);
+}
+
+.welcome h1{
+    font-family: leagueGothic;
+    letter-spacing: 2px;
+    font-size: 60px;
+    
+}
+span
+{
+    color: red;
+    font-family: leagueGothic;
+    font-size: 29px;
+
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body
+{
+    background-color: rgb(197, 255, 247) 
+}
+
+.head1 h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head1 span
+{
+    padding:25px;
+    color: #fddfb7;
+    font-size: 50px;
+    letter-spacing: 2px;
+
+}
+
+.head1 p
+{
+    padding: 25px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+.head1 
+{
+    background-image: url('naruto.jpg');
+    background-size:contain ;
+    opacity: 0.9    ;
+}
+
+.youtube h1
+{
+    font-family: leagueGothic;
+    color: #e71616;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+.youtube 
+{
+    background-image: url('youtube.jpg');
+    background-size: cover;
+}
+
+
+.youtube h1
+{
+    padding: 25px;
+}
+.youtube p
+{
+
+    padding: 25px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    color: white;
+}
+.youtube h2
+{
+    font-family: leagueGothic;
+    padding: 25px;
+    color: #fddfb7;
+    font-size: 30px;
+    letter-spacing: 2px;
+    flex: 1;
+    margin: 10px;
+}
+
+.youtube div
+{
+    display: flex;
+    flex: 1;
+}
+
+.youtube.yt 
+{
+    display: inline-block;
+        width: 50%; 
+        height: 300px;
+        margin-left: 20%;
+}
+
+.youtube h3
+{
+    font-family: leagueGothic;
+    padding: 25px;
+    color: #fddfb7;
+    font-size: 30px;
+    letter-spacing: 2px;
+    flex: 1;
+    margin: 10px;
+}
+
+/*.box1 iframe
+{
+    padding: 25px;
+    max-width: 100%; 
+    max-height: 100%;
+}
+
+.container iframe
+{
+    padding: 25px;
+}*/
+
+/*.vid video
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}*/
+
+
+
+
